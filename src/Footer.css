@@ -1,0 +1,21 @@
+
+.footer
+{
+    background-color: black;
+    color:white;
+}
+.footer .logo{
+    padding-top:80px;
+    padding-left:40px;
+}
+.footer .col-md-4{
+    padding-top:10px;
+    padding-left:10px;
+}
+/*.footer h3,h4{
+    color:white;
+}*/
+.footer .navitem{
+    text-decoration:none;
+    color:white;
+}

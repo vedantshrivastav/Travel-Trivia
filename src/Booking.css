@@ -1,0 +1,46 @@
+.body-booking{
+    padding-top: 28px;
+    z-index:-1;
+    position: absolute;
+    margin:0;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 0px;
+    background-color: #ebf4f6;
+}
+.home-image-booking{
+    margin-top:2%;
+    background: url("/src/assets/australia.jpg") no-repeat center;
+    background-size: cover;
+    height:700px;
+    width:100%;
+    position:relative;
+    opacity: 0.7;
+}
+.home-text-booking{
+    position: absolute;
+    top:50%;
+    left:50%;
+    text-align: center;
+    transform:translate(-50%,-50%);
+    color:white;
+}
+.form{
+    margin:4%;
+    background-color: #fed766;/*rgb(213, 223, 216);*/
+    padding:4%;
+}
+.form .head
+{
+    color:grey;
+    text-align: center;
+}
+.text{
+    font-size: 23px;
+    font-weight: bold;
+    color: grey;
+    padding:8px;
+}
+.outline{
+font-weight: bolder;
+}
